@@ -28,6 +28,8 @@ We invite you to explore the provided datasets, conduct your own analysis, and s
 ## How to Use
 
 1. Clone the repository to your local machine using the following command:
+
   ```git clone https://github.com/fa06396/Social-Network-Analysis.git```
+  
 2. Navigate to the specific project folder you are interested in.
 3. Use the provided code, datasets, and instructions to run and explore the project.
