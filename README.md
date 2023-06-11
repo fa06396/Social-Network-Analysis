@@ -18,6 +18,13 @@ The project revolves around analyzing the social network within the Pakistani Na
 3. Analysis: The resulting network graphs were analyzed to gain insights into the connections, centrality measures, community detection, and other interesting patterns within the network.
 4. Visualization: Visualizations were created to present the network graphs and key findings in an intuitive and informative manner.
 
+## Note on Analysis Scripts
+
+Please note that the analysis scripts originally used for the projects, particularly those implemented in R, are no longer available and have been removed. However, the extracted data and relevant files are still provided in the respective project folders. You are encouraged to utilize the available data and perform your own analysis, applying different techniques and algorithms.
+
+We invite you to explore the provided datasets, conduct your own analysis, and share your findings or insights with the community.
+
+
 ## How to Use
 
 1. Clone the repository to your local machine using the following command:
